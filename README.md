@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogender-singh-97" alt="yogender-singh-97" /></a> </p>
 
-- 🌱 I’m currently learning **MACHINE LEARNING**
+- 🌱 I’m currently learning **WEB DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [NULL](NULL)
 
