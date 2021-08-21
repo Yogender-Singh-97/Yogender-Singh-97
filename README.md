@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [NULL](NULL)
+- 👨‍💻 All of my projects are available at [https://github.com/Yogender-Singh-97?tab=repositories](NULL)
 
 - 💬 Ask me about **C++, C, JAVA, DSA**
 
